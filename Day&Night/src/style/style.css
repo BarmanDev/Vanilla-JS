@@ -1,0 +1,35 @@
+*{
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(47,101,73,0.8239670868347339) 100%, rgba(0,212,255,1) 100%);
+}
+
+h1{
+  color:aliceblue;
+}
+.container {
+  margin: 50px auto;
+  text-align: center;
+}
+
+.imagen{
+    height: 500px;
+    padding-bottom: 2rem;
+    margin-top: 2rem;
+}
+button{
+  padding: 10px 20px;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(47,101,73,0.8239670868347339) 100%, rgba(0,212,255,1) 100%);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  border: solid; 
+  border-color: rgba(47,101,73,0.8239670868347339);
+  cursor: pointer;  
+}
