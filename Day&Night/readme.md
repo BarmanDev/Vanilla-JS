@@ -1,5 +1,5 @@
 
-# Day and night XP project <img src="https://freesvg.org/img/primary-samba-server.png" alt="Texto alternativo" width="200"/>
+# <img src="https://freesvg.org/img/primary-samba-server.png" alt="Texto alternativo" width="30"/> Day and night XP project    
 
 Este es un proyecto simple que muestra una imagen de fondo de Windows XP en el modo de día y permite cambiarla al modo de noche haciendo clic en un botón. Es una pequeña aplicación web para revivir la nostalgia de Windows XP.
 
