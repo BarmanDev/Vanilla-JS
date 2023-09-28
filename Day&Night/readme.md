@@ -15,10 +15,6 @@ El proyecto está construido con HTML, CSS y JavaScript vanilla. Aquí tienes un
 
 ## Cómo usar
 
-Clona este repositorio en tu computadora:
-
-```git clone https://github.com/TU_USUARIO/nostalgia-xp-cambiador.git ```
-
 Abre el archivo index.html en tu navegador web.
 
 Haz clic en el botón "Cambiar" para alternar entre el modo de día y el modo de noche de Windows XP.
